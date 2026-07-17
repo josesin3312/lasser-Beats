@@ -1,0 +1,17 @@
+{
+  "short_name": "LasserInv",
+  "name": "Lasser Beats - Inventario",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0a0a0a",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#00e676"
+}
